@@ -8,13 +8,7 @@ while True:
 	n=int(input('Enter no of repeatations: '))
 	input('')
 	user=driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
-#print(str(user))
-#actions=ActionChains(driver)
-#actions.click(user).perform()
 	user.click()
-#else:
-#	print('No such elements')
-#print(len(user))
 	msgbox=driver.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/footer/div[1]/div[2]/div/div[2]')
 	for i in range(n):
 		print(str(i+1))
