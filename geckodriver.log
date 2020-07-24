@@ -1,0 +1,1256 @@
+1595527740688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN0d7bq"
+1595527741169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595527741169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595527741169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595527741170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595527742586	Marionette	INFO	Listening on port 43395
+1595527742612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595527860928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXD09sL"
+1595527861388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595527861388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595527861388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595527861388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595527862791	Marionette	INFO	Listening on port 33363
+1595527862914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 88769, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 88769, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 88769, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595528075763	Marionette	INFO	Stopped listening on port 33363
+[Parent 88252, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 88252, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595528086729	Marionette	INFO	Stopped listening on port 43395
+1595528091411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3XiPV"
+1595528091832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595528091832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595528091832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595528091833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595528093221	Marionette	INFO	Listening on port 46879
+1595528093324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+1595529023312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSbqisq"
+1595529023749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529023749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529023749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529023750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529025079	Marionette	INFO	Listening on port 44385
+1595529025121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: "Protocol error (unknownError): node is null"
+[Parent 91107, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 91107, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529132491	Marionette	INFO	Stopped listening on port 44385
+1595529138315	Marionette	INFO	Stopped listening on port 46879
+1595529203135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenIx6bm"
+1595529203580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529203580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529203580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529203580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529204900	Marionette	INFO	Listening on port 36813
+1595529204946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 91759, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 91759, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529257145	Marionette	INFO	Stopped listening on port 36813
+1595529418990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefgZiiG"
+1595529419456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529419456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529419457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529419458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529420797	Marionette	INFO	Listening on port 37655
+1595529420934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 92434, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 92434, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 92434, Gecko_IOThread] WARNING: pipe error (145): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529475572	Marionette	INFO	Stopped listening on port 37655
+1595529665170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZj6936"
+1595529665584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529665585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529665585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529665585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529666942	Marionette	INFO	Listening on port 45153
+1595529666981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 93085, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 93085, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529756849	Marionette	INFO	Stopped listening on port 45153
+1595529759914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVZnCSl"
+1595529760330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529760331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529760331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529760331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529761669	Marionette	INFO	Listening on port 36727
+1595529761721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 93590, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 93590, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529812123	Marionette	INFO	Stopped listening on port 36727
+1595529842629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB3VXfi"
+1595529843102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529843102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529843103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529843103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529844442	Marionette	INFO	Listening on port 42757
+1595529844611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595529896769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileutkw77"
+1595529897212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595529897212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595529897212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595529897212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595529898645	Marionette	INFO	Listening on port 40333
+1595529898736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 94517, Gecko_IOThread] WARNING: pipe error (181): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529917032	Marionette	INFO	Stopped listening on port 40333
+[Parent 94079, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 94079, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 94079, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595529919299	Marionette	INFO	Stopped listening on port 42757
+1595530058440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef9QhOp"
+1595530058876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530058876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530058876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530058876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530060236	Marionette	INFO	Listening on port 44213
+1595530060255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 95135, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595530092939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV5WTSz"
+1595530093374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530093374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530093375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530093375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530093420	Marionette	INFO	Stopped listening on port 44213
+1595530094837	Marionette	INFO	Listening on port 38883
+1595530094852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595530198608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerRtV3X"
+1595530199049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530199049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530199049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530199049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530200389	Marionette	INFO	Listening on port 39787
+1595530200420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595530273343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew1pSIH"
+1595530273792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530273792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530273792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530273792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530275164	Marionette	INFO	Listening on port 45319
+1595530275272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595530316310	Marionette	INFO	Stopped listening on port 45319
+1595530317939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekK7aXG"
+1595530318440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530318440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530318441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530318441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530320194	Marionette	INFO	Listening on port 46085
+1595530320256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+[Parent 97106, Gecko_IOThread] WARNING: pipe error (186): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 97106, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 97106, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595530387022	Marionette	INFO	Stopped listening on port 46085
+1595530389678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaFfNqz"
+1595530390187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530390187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530390188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530390188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530392009	Marionette	INFO	Listening on port 34209
+1595530392091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595530696979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6rn2rB"
+1595530697406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595530697406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595530697406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595530697406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595530698850	Marionette	INFO	Listening on port 38627
+1595530698949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: "Protocol error (unknownError): node is null"
+1595530709046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 98478, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595530976474	Marionette	INFO	Stopped listening on port 38627
+[Parent 97619, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 97619, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595530981113	Marionette	INFO	Stopped listening on port 34209
+
+(firefox:96125): Gdk-WARNING **: 00:33:04.632: Tried to unmap the parent of a popup
+[Parent 96125, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 96125, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595530984765	Marionette	INFO	Stopped listening on port 39787
+[Parent 95570, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 95570, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595530987724	Marionette	INFO	Stopped listening on port 38883
+1595531028506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefALU8V"
+1595531028978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531028978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531028978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531028978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531030448	Marionette	INFO	Listening on port 43107
+1595531030536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1595531293061	Marionette	INFO	Stopped listening on port 43107
+1595531296709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuc9GgQ"
+1595531297143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531297143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531297143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531297143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531298504	Marionette	INFO	Listening on port 36713
+1595531298518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 100204, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 100363, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1595531312403	Marionette	INFO	Stopped listening on port 36713
+1595531362326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSkdCA9"
+1595531362773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531362774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531362774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531362774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531364160	Marionette	INFO	Listening on port 33403
+1595531364266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 100670, Gecko_IOThread] WARNING: pipe error (162): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595531388262	Marionette	INFO	Stopped listening on port 33403
+1595531388765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenSRIsl"
+1595531389200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531389201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531389201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531389201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531390601	Marionette	INFO	Listening on port 46745
+1595531390685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 101092, Gecko_IOThread] WARNING: pipe error (145): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595531400248	Marionette	INFO	Stopped listening on port 46745
+1595531414748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uOche"
+1595531415183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531415183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531415183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531415183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531416585	Marionette	INFO	Listening on port 40823
+1595531416680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 101462, Gecko_IOThread] WARNING: pipe error (160): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595531437563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep1kBA2"
+1595531438029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531438029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531438029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531438029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531439431	Marionette	INFO	Listening on port 46797
+1595531439530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 101877, Gecko_IOThread] WARNING: pipe error (188): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595531448421	Marionette	INFO	Stopped listening on port 40823
+1595531450164	Marionette	INFO	Stopped listening on port 46797
+1595531488758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOL6VAl"
+1595531489237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531489237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531489237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531489237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531490663	Marionette	INFO	Listening on port 40139
+1595531490673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595531646050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1c7jI0"
+1595531646497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531646497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531646497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531646497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531647966	Marionette	INFO	Listening on port 36935
+1595531648066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 102917, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595531709356	Marionette	INFO	Stopped listening on port 36935
+1595531711996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledq3bFq"
+1595531712441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595531712441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595531712441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595531712441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595531713953	Marionette	INFO	Listening on port 39673
+1595531714051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 102301, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595532111531	Marionette	INFO	Stopped listening on port 40139
+1595532198715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileypmTGe"
+1595532199337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595532199337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595532199337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595532199337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595532201047	Marionette	INFO	Listening on port 40875
+1595532201126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: "Protocol error (unknownError): node is null"
+1595532232235	Marionette	INFO	Stopped listening on port 40875
+1595532253955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57UJv4"
+1595532254638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595532254638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595532254638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595532254638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595532256188	Marionette	INFO	Listening on port 38695
+1595532256265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 104860, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595532281776	Marionette	INFO	Stopped listening on port 38695
+[Parent 103369, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 103369, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595532283598	Marionette	INFO	Stopped listening on port 39673
+1595576721867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYyZUhg"
+1595576722644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595576722645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595576722645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595576722645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595576724991	Marionette	INFO	Listening on port 39701
+1595576725084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 2674, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595576849742	Marionette	INFO	Stopped listening on port 39701
+1595576855292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3z4xrJ"
+1595576855892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595576855892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595576855892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595576855893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595576858081	Marionette	INFO	Listening on port 37369
+1595576858125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 3380, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595577002565	Marionette	INFO	Stopped listening on port 37369
+1595577005818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehlaZ8M"
+1595577006426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595577006426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595577006427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595577006427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595577008576	Marionette	INFO	Listening on port 33423
+1595577008634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+cleanup@resource://gre/modules/ExtensionContent.jsm:402:34
+close@resource://gre/modules/ExtensionContent.jsm:925:14
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1035:17
+shutdownExtension@resource://gre/modules/ExtensionContent.jsm:1083:21
+shutdown@resource://gre/modules/ExtensionChild.jsm:963:22
+receiveMessage@resource://gre/modules/ExtensionProcessScript.jsm:287:38
+]]
+[Parent 4000, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4000, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4000, Gecko_IOThread] WARNING: pipe error (146): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595577429355	Marionette	INFO	Stopped listening on port 33423
+1595577459109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoA51UG"
+1595577459704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595577459704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595577459704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595577459705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595577461844	Marionette	INFO	Listening on port 33747
+1595577461935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595577570997	Marionette	INFO	Stopped listening on port 33747
+1595577575533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekjepIM"
+1595577576143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595577576143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595577576143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595577576144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595577578264	Marionette	INFO	Listening on port 40539
+1595577578358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595577700386	Marionette	INFO	Stopped listening on port 40539
+1595577702689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezUpJJ1"
+1595577703283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595577703284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595577703284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595577703284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595577705401	Marionette	INFO	Listening on port 34915
+1595577705511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 6300, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595577816673	Marionette	INFO	Stopped listening on port 34915
+1595577819098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX2N8PJ"
+1595577819694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595577819695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595577819695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595577819695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595577821849	Marionette	INFO	Listening on port 37331
+1595577821913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 6847, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6847, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595577914426	Marionette	INFO	Stopped listening on port 37331
+1595577926894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekN23aR"
+1595577927491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595577927491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595577927491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595577927491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595577929587	Marionette	INFO	Listening on port 34465
+1595577929645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595577996815	Marionette	INFO	Stopped listening on port 34465
+1595578005658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiMUwsZ"
+1595578006266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595578006266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595578006267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595578006267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595578008374	Marionette	INFO	Listening on port 41831
+1595578008480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 7857, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7857, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7857, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595578098037	Marionette	INFO	Stopped listening on port 41831
+1595578101397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1kDWUv"
+1595578101995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595578101995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595578101995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595578101995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595578104149	Marionette	INFO	Listening on port 41775
+1595578104215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 8361, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8361, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595578198916	Marionette	INFO	Stopped listening on port 41775
+1595578249899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9XicL"
+1595578250499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595578250500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595578250500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595578250500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595578252637	Marionette	INFO	Listening on port 33281
+1595578252718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 8911, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595578307706	Marionette	INFO	Stopped listening on port 33281
+1595578361229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTVPheF"
+1595578361837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595578361837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595578361837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595578361837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595578364041	Marionette	INFO	Listening on port 38965
+1595578364145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 9428, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9428, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595578419921	Marionette	INFO	Stopped listening on port 38965
+1595579233095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIdvC4Y"
+1595579233692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595579233693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595579233693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595579233693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595579235889	Marionette	INFO	Listening on port 35739
+1595579235915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 10617, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595579355824	Marionette	INFO	Stopped listening on port 35739
+1595585878882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF9OxUr"
+1595585879519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595585879519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595585879520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595585879520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595585882026	Marionette	INFO	Listening on port 33657
+1595585882099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2812, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595585936995	Marionette	INFO	Stopped listening on port 33657
+1595586085786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekhGFD4"
+1595586086553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595586086553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595586086553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595586086553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595586088937	Marionette	INFO	Listening on port 44371
+1595586089008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x630008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2256, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595586154206	Marionette	INFO	Stopped listening on port 44371
+1595586163083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledmdC8g"
+1595586163696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595586163697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595586163697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595586163697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595586165836	Marionette	INFO	Listening on port 38079
+1595586165903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 2849, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595586216255	Marionette	INFO	Stopped listening on port 38079
+1595586349261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo5LTUw"
+1595586349925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595586349925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595586349925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595586349925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595586352158	Marionette	INFO	Listening on port 42949
+1595586352188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 3995, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 3995, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595586578728	Marionette	INFO	Stopped listening on port 42949
+1595586581382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA94bDN"
+1595586581996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595586581996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595586581997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595586581997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595586584276	Marionette	INFO	Listening on port 36389
+1595586584314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595586611624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh0HbkZ"
+1595586612246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595586612247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595586612247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595586612247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595586614524	Marionette	INFO	Listening on port 42649
+1595586614553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 5130, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 5130, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1595586657687	Marionette	INFO	Stopped listening on port 42649
+1595586732779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8c7oh"
+1595586733411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595586733411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595586733411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595586733411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595586735685	Marionette	INFO	Listening on port 41241
+1595586735710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=181.641) [Child 5806, Chrome_ChildThread] WARNING: pipe error (43): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 5806, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=182.904) 1595587507016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemuFbn3"
+1595587507666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595587507666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595587507666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595587507667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595587509957	Marionette	INFO	Listening on port 46849
+1595587510032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=62.3115) 1595609397754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKaa7zs"
+1595609398371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595609398371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595609398371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595609398371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595609399990	Marionette	INFO	Listening on port 40681
+1595609400065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=169.507) 1595609589539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9tRAkW"
+1595609589998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595609589998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595609589999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595609589999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595609591322	Marionette	INFO	Listening on port 40191
+1595609591354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource:///modules/PanelMultiView.jsm, line 1146: TypeError: screen is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:933:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "TypeError: this.parentFront is null: get inspectorFront@resource://devtools/shared/fronts/node.js:409:5\nget highlighterFront@resource://devtools/shared/fronts/node.js:413:5\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:704:5\n_brieflyShowBoxModel@resource://devtools/client/inspector/markup/markup.js:737:26\n_onNewSelection@resource://devtools/client/inspector/markup/markup.js:931:29\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\nsetNodeFront@resource://devtools/client/framework/selection.js:161:10\nonDetached@resource://devtools/client/inspector/inspector.js:1545:20\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\n_onMutations@resource://devtools/client/framework/selection.js:104:12\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: this.parentFront is null: get inspectorFront@resource://devtools/shared/fronts/node.js:409:5
+get highlighterFront@resource://devtools/shared/fronts/node.js:413:5
+_showBoxModel@resource://devtools/client/inspector/markup/markup.js:704:5
+_brieflyShowBoxModel@resource://devtools/client/inspector/markup/markup.js:737:26
+_onNewSelection@resource://devtools/client/inspector/markup/markup.js:931:29
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1545:20
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: "Error: Can not send request because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:29:15\nupdateSelectionCssSelector@resource://devtools/client/inspector/inspector.js:1397:32\nonNewSelection@resource://devtools/client/inspector/inspector.js:1468:10\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\nsetNodeFront@resource://devtools/client/framework/selection.js:161:10\nonDetached@resource://devtools/client/inspector/inspector.js:1545:20\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\n_onMutations@resource://devtools/client/framework/selection.js:104:12\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+Error: Can not send request because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:29:15
+updateSelectionCssSelector@resource://devtools/client/inspector/inspector.js:1397:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1468:10
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1545:20
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: "Protocol error (unknownError): node is null"
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:63:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+[Parent 3080, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 3080, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 3080, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+[Parent 3080, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595610156156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDWGxHi"
+1595610156576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595610156576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595610156576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595610156576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595610157913	Marionette	INFO	Listening on port 36843
+1595610157966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595610160916	Marionette	INFO	Stopped listening on port 40191
+[Parent 3080, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /builddir/build/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=735.702) Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=735.861) Exiting due to channel error.
